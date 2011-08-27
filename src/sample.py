@@ -5,7 +5,7 @@ FutabaのRS405,RS406CB制御用ライブラリ
 制御例
 """
 
-import serial,struct,time
+import time
 import rsc_u485
 
 if __name__ == '__main__':
